@@ -5,3 +5,4 @@ cd ..
 ls -l -n
 cd testGit/
 echo nora was here
+echo devBranch branched
