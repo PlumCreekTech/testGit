@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo this is a test script
+cd ..
+ls -l -n
+cd testGit/
