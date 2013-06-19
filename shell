@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo this is a test script
+echo this is an apocalyptic script!!!
 cd ..
 ls -l -n
 cd testGit/
